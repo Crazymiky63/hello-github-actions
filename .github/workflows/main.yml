@@ -1,0 +1,5 @@
+name: A workflow for my Hello World file
+
+on: push
+Stage and commit the changes
+Push the changes to GitHub
